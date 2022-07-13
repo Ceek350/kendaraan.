@@ -6,8 +6,8 @@
 </head>
 <body>
 	<div class="judul">		
-		<h2>Web Pendataan Kehilangan Kendaraan Bermotor Roda 2</h2>
-		<h3>Polrestabes Semarang</h3>
+		<h2>Web Pendataan Kehilangan Kendaraan Bermotor</h2>
+		<h3>Polres X</h3>
 	</div>
 
 	<br />
